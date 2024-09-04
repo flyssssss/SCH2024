@@ -4,7 +4,7 @@
 抓任意包请求头 Authorization
 变量名: JHD 多号用&分割 
 部分报错不影响后续执行 偶尔报错正常
-cron: 39 7 * * *
+cron: 14 8,21 * * *
 const $ = new Env("J27~交汇点新闻");
 """
 import os
