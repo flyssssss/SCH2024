@@ -19,7 +19,7 @@ requests.packages.urllib3.disable_warnings(InsecurePlatformWarning)
 
 
 class JHD():
-    name = "交汇点"
+    name = "J27~交汇点新闻"
 
     def __init__(self, token):
         self.token = token
