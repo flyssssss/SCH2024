@@ -5,7 +5,7 @@
 变量名: JHD 多号用&分割 
 部分报错不影响后续执行 偶尔报错正常
 cron: 39 7 * * *
-const $ = new Env("交汇点");
+const $ = new Env("J27~交汇点新闻");
 """
 import os
 import random
