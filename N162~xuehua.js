@@ -23,7 +23,7 @@ https://superx.crb.cn/Api/b1/GetUserInfo\?sessionKey=\S+ url script-request-url 
 //http://nm6.xyz:20080/ningmeng/ningmeng/raw/branch/main/xuehua.js, tag=雪花勇闯天涯, enabled=true
 
 
-const $ = new Env('雪花勇闯天涯');
+const $ = new Env('N162~雪花勇闯天涯');
 const {log} = console;
 
 const Notify = 0; //0为关闭通知，1为打开通知,默认为1
