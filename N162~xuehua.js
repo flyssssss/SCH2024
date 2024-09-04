@@ -2,11 +2,10 @@
 小程序:勇闯天涯superX
 抓域名superx.crb.cn
 查看请求头sessionKey=XXXXXXXXXXXX
-变量
-export xuehuahd='XXXXXXX'
+变量:export xuehuahd='XXXXXXX'
 多号@或换行
 
-cron: 5 9 * * *
+cron: 23 8,19 * * *
 fix 20240625 ArcadiaScriptPublic  频道：https://t.me/ArcadiaScript 群组：https://t.me/ArcadiaScriptPublic
 增加打印签到信息
 更新cron
